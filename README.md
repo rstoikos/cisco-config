@@ -15,3 +15,5 @@ show ip int b | e un
 show ip route | i O  
 
 The script asks for your credentials and then executes for every IP address in the file every cmd in the 2nd file
+
+[![published](https://static.production.devnetcloud.com/codeexchange/assets/images/devnet-published.svg)](https://developer.cisco.com/codeexchange/github/repo/rstoikos/cisco-config)
